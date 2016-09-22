@@ -33,6 +33,9 @@ launcher()
 		"d" )
 			cd $HOME/Desktop
 		;;
+		"v" )
+			cd $HOME/vagrant/
+		;;
 		'help' )
 			cat <<-EOF
 			
